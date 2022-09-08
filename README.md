@@ -1,4 +1,4 @@
 # Choice Quiz (ReactJS)
 
 
-demo autoquiz.surge.sh
+autoquiz.surge.sh
